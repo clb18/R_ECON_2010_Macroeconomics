@@ -6,7 +6,7 @@ date: today
 
 # Preface {.unnumbered}
 
-Welcome to **Macroeconomics**. This course examines how economies function at the aggregate level — exploring the forces that drive economic growth, unemployment, inflation, and the policy tools governments and central banks use to shape outcomes.
+Welcome to **Macroeconomics!** This course examines how economies function at the aggregate level — exploring the forces that drive economic growth, unemployment, inflation, and the policy tools governments and central banks use to shape outcomes.
 
 This online textbook serves as your primary reference for lecture notes, examples, and worked problems throughout the semester. Each chapter corresponds to a topic covered in class and is designed to complement your readings and assignments.
 

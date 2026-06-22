@@ -6,93 +6,93 @@ date: today
 
 # Course Information {.unnumbered}
 
-| | |
-|---|---|
-| **Course** | Macroeconomics |
-| **Course Number** | ECON-XXXX |
-| **Semester** | Fall 2025 |
-| **Meeting Time** | MWF 00:00 AM – 00:00 AM |
-| **Location** | Building, Room XXX |
-| **Office Hours** | By appointment |
-| **Email** | yourname\@university.edu |
+|                   |                          |
+|-------------------|--------------------------|
+| **Course**        | Macroeconomics           |
+| **Course Number** | ECON-XXXX                |
+| **Semester**      | Fall 2025                |
+| **Meeting Time**  | MWF 00:00 AM – 00:00 AM  |
+| **Location**      | Building, Room XXX       |
+| **Office Hours**  | By appointment           |
+| **Email**         | yourname\@university.edu |
 
----
+------------------------------------------------------------------------
 
 # Course Description {.unnumbered}
 
 This course provides a comprehensive introduction to macroeconomic theory and policy. Students will examine how economies function at the aggregate level, including the determinants of national output, employment, inflation, and economic growth. Special emphasis is placed on the role of fiscal and monetary policy in stabilizing the economy, as well as the linkages between domestic and international economies.
 
----
+------------------------------------------------------------------------
 
 # Learning Objectives {.unnumbered}
 
 By the end of this course, students will be able to:
 
-1. Measure and interpret key macroeconomic indicators (GDP, CPI, unemployment)
-2. Apply classical and Keynesian models to analyze short- and long-run economic outcomes
-3. Evaluate the effectiveness of fiscal and monetary policy tools
-4. Analyze the causes and consequences of business cycle fluctuations
-5. Understand the open economy and the role of exchange rates and trade
-6. Use R to visualize and analyze macroeconomic data
+1.  Measure and interpret key macroeconomic indicators (GDP, CPI, unemployment)
+2.  Apply classical and Keynesian models to analyze short- and long-run economic outcomes
+3.  Evaluate the effectiveness of fiscal and monetary policy tools
+4.  Analyze the causes and consequences of business cycle fluctuations
+5.  Understand the open economy and the role of exchange rates and trade
+6.  Use R to visualize and analyze macroeconomic data
 
----
+------------------------------------------------------------------------
 
 # Required Materials {.unnumbered}
 
-- **Textbook:** [Title], Author, Edition — available at the campus bookstore or online
-- **Course Website:** [your GitHub Pages URL]
-- **Software:** R and RStudio (free — installation instructions provided)
+-   **Textbook:** \[Title\], Author, Edition — available at the campus bookstore or online
+-   **Course Website:** \[your GitHub Pages URL\]
+-   **Software:** R and RStudio (free — installation instructions provided)
 
----
+------------------------------------------------------------------------
 
 # Grading {.unnumbered}
 
-| Component | Weight |
-|---|---|
-| Homework / Problem Sets | 20% |
-| Quizzes | 15% |
-| Midterm Exam 1 | 20% |
-| Midterm Exam 2 | 20% |
-| Final Exam | 25% |
-| **Total** | **100%** |
+| Component               | Weight   |
+|-------------------------|----------|
+| Homework / Problem Sets | 20%      |
+| Quizzes                 | 15%      |
+| Midterm Exam 1          | 20%      |
+| Midterm Exam 2          | 20%      |
+| Final Exam              | 25%      |
+| **Total**               | **100%** |
 
 ### Grading Scale {.unnumbered}
 
-| Grade | Range |
-|---|---|
-| A | 90 – 100% |
-| B | 80 – 89% |
-| C | 70 – 79% |
-| D | 60 – 69% |
-| F | Below 60% |
+| Grade | Range     |
+|-------|-----------|
+| A     | 90 – 100% |
+| B     | 80 – 89%  |
+| C     | 70 – 79%  |
+| D     | 60 – 69%  |
+| F     | Below 60% |
 
----
+------------------------------------------------------------------------
 
 # Course Schedule {.unnumbered}
 
 *Note: Schedule is subject to change. Updates will be posted to the course website.*
 
-| Week | Topic | Reading |
-|---|---|---|
-| 1 | Introduction to Macroeconomics | Ch. 1 |
-| 2 | Measuring the Macroeconomy: GDP | Ch. 2 |
-| 3 | Measuring the Macroeconomy: Inflation & Unemployment | Ch. 3 |
-| 4 | Long-Run Growth: The Solow Model | Ch. 4 |
-| 5 | Money, Banking, and Inflation | Ch. 5 |
-| 6 | **Midterm Exam 1** | Chs. 1–5 |
-| 7 | Aggregate Demand and Supply | Ch. 6 |
-| 8 | The IS-LM Model | Ch. 7 |
-| 9 | Fiscal Policy | Ch. 8 |
-| 10 | Monetary Policy | Ch. 9 |
-| 11 | **Midterm Exam 2** | Chs. 6–10 |
-| 12 | Business Cycles | Ch. 10 |
-| 13 | Open Economy Macroeconomics | Ch. 11 |
-| 14 | Exchange Rates and Trade | Ch. 12 |
-| 15 | Current Issues in Macroeconomics | TBD |
-| 16 | Review / Final Exam Prep | All |
-| Finals | **Final Exam** | Comprehensive |
+| Week   | Topic                                                | Reading       |
+|--------|------------------------------------------------------|---------------|
+| 1      | Introduction to Macroeconomics                       | Ch. 1         |
+| 2      | Measuring the Macroeconomy: GDP                      | Ch. 2         |
+| 3      | Measuring the Macroeconomy: Inflation & Unemployment | Ch. 3         |
+| 4      | Long-Run Growth: The Solow Model                     | Ch. 4         |
+| 5      | Money, Banking, and Inflation                        | Ch. 5         |
+| 6      | **Midterm Exam 1**                                   | Chs. 1–5      |
+| 7      | Aggregate Demand and Supply                          | Ch. 6         |
+| 8      | The IS-LM Model                                      | Ch. 7         |
+| 9      | Fiscal Policy                                        | Ch. 8         |
+| 10     | Monetary Policy                                      | Ch. 9         |
+| 11     | **Midterm Exam 2**                                   | Chs. 6–10     |
+| 12     | Business Cycles                                      | Ch. 10        |
+| 13     | Open Economy Macroeconomics                          | Ch. 11        |
+| 14     | Exchange Rates and Trade                             | Ch. 12        |
+| 15     | Current Issues in Macroeconomics                     | TBD           |
+| 16     | Review / Final Exam Prep                             | All           |
+| Finals | **Final Exam**                                       | Comprehensive |
 
----
+------------------------------------------------------------------------
 
 # Course Policies {.unnumbered}
 
@@ -116,7 +116,7 @@ The use of AI tools (e.g., ChatGPT, Claude) must be disclosed. AI may be used fo
 
 Students requiring academic accommodations should contact the university's Office of Accessibility Services and provide documentation to the instructor within the first two weeks of class.
 
----
+------------------------------------------------------------------------
 
 # A Note from Prof. Barker {.unnumbered}
 
@@ -124,7 +124,7 @@ Macroeconomics is one of the most relevant and dynamic fields in all of economic
 
 Please don't hesitate to reach out if you have questions, fall behind, or just want to talk through an idea. I'm here to help.
 
----
+------------------------------------------------------------------------
 
 ::: {style="display: flex; justify-content: space-between; margin-top: 2rem;"}
 [← Back to Preface](index.qmd){.btn .btn-outline-primary}
